@@ -1,4 +1,4 @@
-# Session 1
+# Session 2
 
 ## Data types and control flow
 
