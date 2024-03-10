@@ -8,7 +8,6 @@
 
 ## Startup a project in Intellij
 
-- 
 - Install the <a href="https://www.jetbrains.com/toolbox-app/">Jetbrains toolbox</a>
 - Install Intellij from the toolbox
 - Launch Intellij
